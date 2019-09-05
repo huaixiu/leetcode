@@ -1,9 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-/*
-* ¸ø¶¨Ò»¸ö×Ö·û´®£¬ÇëÄãÕÒ³öÆäÖĞ²»º¬ÓĞÖØ¸´×Ö·ûµÄ×î³¤×Ó´®µÄ³¤¶È¡£
-* */
+/*ç»™å®šä¸€ä¸ªå­—ç¬¦ä¸²ï¼Œè¯·ä½ æ‰¾å‡ºå…¶ä¸­ä¸å«æœ‰é‡å¤å­—ç¬¦çš„ æœ€é•¿å­ä¸² çš„é•¿åº¦ã€‚*/
 public class code3_LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         int len = s.length();

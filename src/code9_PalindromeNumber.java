@@ -1,5 +1,5 @@
 
-/*ÅÐ¶ÏÒ»¸öÕûÊýÊÇ·ñÊÇ»ØÎÄÊý¡£»ØÎÄÊýÊÇÖ¸ÕýÐò£¨´Ó×óÏòÓÒ£©ºÍµ¹Ðò£¨´ÓÓÒÏò×ó£©¶Á¶¼ÊÇÒ»ÑùµÄÕûÊý¡£*/
+/*åˆ¤æ–­ä¸€ä¸ªæ•´æ•°æ˜¯å¦æ˜¯å›žæ–‡æ•°ã€‚å›žæ–‡æ•°æ˜¯æŒ‡æ­£åºï¼ˆä»Žå·¦å‘å³ï¼‰å’Œå€’åºï¼ˆä»Žå³å‘å·¦ï¼‰è¯»éƒ½æ˜¯ä¸€æ ·çš„æ•´æ•°ã€‚*/
 
 public class code9_PalindromeNumber {
     public boolean isPalindrome(int x) {

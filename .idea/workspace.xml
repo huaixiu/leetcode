@@ -32,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/masterspring/code" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567403595332</updated>
       <workItem from="1567403600160" duration="5612000" />
-      <workItem from="1567416660722" duration="8933000" />
+      <workItem from="1567416660722" duration="9600000" />
     </task>
     <servers />
   </component>
