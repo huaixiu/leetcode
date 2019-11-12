@@ -31,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/masterspring/code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
@@ -58,6 +58,7 @@
       <updated>1567403595332</updated>
       <workItem from="1567403600160" duration="5612000" />
       <workItem from="1567416660722" duration="22716000" />
+      <workItem from="1573538992570" duration="632000" />
     </task>
     <servers />
   </component>
