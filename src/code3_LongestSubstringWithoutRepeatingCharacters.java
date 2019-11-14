@@ -21,3 +21,10 @@ public class code3_LongestSubstringWithoutRepeatingCharacters {
         return result;
     }
 }
+
+/**
+ * 随笔：这道题目想了很久，是我不会的那种题目。
+ * 基本流程如下：首先判断这一位数hashset里有没有，没有的话加1并且和i相减得到长度，j+1，
+ * 假如有的话进入i的状态，移除这个元素，i+1其他不变，字符串就成为删除第一个字符的字符串，
+ * 一直对比直到set中无重复对象。
+ */
