@@ -33,3 +33,6 @@ public class code6_ZigZagConversion {
         return ret.toString();
     }
 }
+/**
+ * 好久不见的随笔：这道题我一开始一点都没有头绪，就是分成N行到头换向
+ */
