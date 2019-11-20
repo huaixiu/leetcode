@@ -13,3 +13,6 @@ public class code7_ReverseInteger {
         return rev;
     }
 }
+/**
+ * 随笔：逐位减，但是偷懒方法可以存进sb然后reverse.toString
+ */
