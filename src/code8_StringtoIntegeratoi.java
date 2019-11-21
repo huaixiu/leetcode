@@ -45,3 +45,6 @@ public class code8_StringtoIntegeratoi {
         return (int) res * sign;
     }
 }
+/**
+ * 随笔：可以使用trim就很简单，然后判断符号，然后逐位判断加减即可
+ */
