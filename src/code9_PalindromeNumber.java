@@ -14,3 +14,6 @@ public class code9_PalindromeNumber {
         return cur == x;
     }
 }
+/**
+ * 随笔：不允许用reverse，所以负数判断直接为false，正数则逐位反转比较是否为同一个数即可。
+ */
