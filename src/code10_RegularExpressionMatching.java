@@ -24,3 +24,7 @@ public class code10_RegularExpressionMatching {
         }
     }
 }
+
+/**
+ * 随笔：逐位对比 先判断第一位是否符合 然后判断从第二位开始每个第一位是否符合 不过没太懂 挠头
+ */
