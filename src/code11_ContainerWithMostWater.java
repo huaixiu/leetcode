@@ -14,3 +14,7 @@ public class code11_ContainerWithMostWater {
         return maxarea;
     }
 }
+
+/**
+ * 随笔：easy 遍历求乘积
+ */
