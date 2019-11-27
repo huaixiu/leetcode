@@ -20,8 +20,6 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 
 public class code12_IntegertoRoman {
     public String intToRoman(int num) {
-        // �Ѱ������������������ֿ��ܳ��ֵ���������Ͷ�Ӧ��ϵ����������������
-        // ���Ұ��հ��������ֵĴ�С�������У�����̰��ѡ��˼��
         int[] nums = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
         String[] romans = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
 
@@ -39,3 +37,6 @@ public class code12_IntegertoRoman {
         return stringBuilder.toString();
     }
 }
+/**
+ * 随笔：我没想到特殊条件特殊判断 4=IV之类的 然后就是循环对比就行了
+ */
