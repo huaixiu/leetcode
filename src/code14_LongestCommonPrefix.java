@@ -15,3 +15,7 @@ public class code14_LongestCommonPrefix {
         return prefix;
     }
 }
+
+/**
+ * 随笔：不错 倒推法解决问题很快
+ */
