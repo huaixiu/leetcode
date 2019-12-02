@@ -34,3 +34,6 @@ public class code15_3Sum {
         return ans;
     }
 }
+/**
+ * 随笔：有点难 加加减减的做法
+ */
