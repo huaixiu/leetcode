@@ -46,6 +46,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="qwe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qwe" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.qwe" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,7 +73,8 @@
       <workItem from="1567403600160" duration="5612000" />
       <workItem from="1567416660722" duration="22716000" />
       <workItem from="1573538992570" duration="12311000" />
-      <workItem from="1574062144617" duration="16224000" />
+      <workItem from="1574062144617" duration="19066000" />
+      <workItem from="1576471424489" duration="18648000" />
     </task>
     <servers />
   </component>
