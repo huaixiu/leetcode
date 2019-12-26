@@ -26,3 +26,6 @@ public class code19_RemoveNthNodeFromEndofList {
       ListNode(int x) { val = x; }
     }
 }
+/**
+ * diary:easy
+ */
