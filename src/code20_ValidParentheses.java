@@ -50,3 +50,6 @@ public class code20_ValidParentheses {
         return stack.isEmpty();
     }
 }
+/**
+ * diary:堆栈解决 很有意思 注意必须成对
+ */
